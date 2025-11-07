@@ -34,13 +34,13 @@ Here’s what’s been accomplished so far:
   - Implemented **icon system** using **Lucide React**
   - Layout structured using **shadcn/ui** and custom wrappers
   - Built Navbar and half Footer at the landing page
+  - Completed the whole landing page
 - **No AI assistance** — all logic, layout, and styling hand-coded by me.
 
 ---
 
 ## 🚧 Next Steps
-- Fix existing **minor rendering and logic errors** on the landing page  
-- Begin planning for **product customization flow** and **checkout system**
+- Moving towards building uploads page where user can add their pic and get a phone case demo
 
 ---
 
@@ -50,6 +50,7 @@ Here’s what’s been accomplished so far:
 src/
 ├─ app/
 │   ├─ api/
+│   ├─ configure/upload
 │   ├─ favicon.ico
 │   ├─ globals.css
 │   ├─ layout.tsx
